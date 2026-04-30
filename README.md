@@ -49,3 +49,6 @@ Monthly spending trends with clear fluctuations
 Highest spend observed on Friday
 🔹 Time-Based Analysis
 Afternoon shows highest spending activity
+
+<img width="1274" height="713" alt="image" src="https://github.com/user-attachments/assets/cc169e6c-1547-4018-b286-aa6638356f44" />
+
