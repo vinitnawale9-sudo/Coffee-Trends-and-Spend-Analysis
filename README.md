@@ -52,3 +52,6 @@ Afternoon shows highest spending activity
 
 <img width="1274" height="713" alt="image" src="https://github.com/user-attachments/assets/cc169e6c-1547-4018-b286-aa6638356f44" />
 
+<img width="1278" height="714" alt="image" src="https://github.com/user-attachments/assets/eba7d512-5a9d-42a0-b957-a2f641c844c7" />
+
+
